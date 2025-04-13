@@ -12,7 +12,7 @@ I'm a motivated software engineer with 2+ years of experience, currently pursuin
 ### 🚀 Featured Projects
 
 #### 🛍️ [Product Recommendation System](https://github.com/akshara1610/product-recommendation)  
-A personalized recommendation engine using collaborative filtering and content-based techniques. It predicts user preferences by leveraging purchase history and product metadata, improving user engagement and decision-making.
+A personalized recommendation engine using integration with LLMs and prompt engineering. It recommends products by leveraging purchase history and product metadata, improving user engagement and decision-making.
 
 #### 🏋️ [Analyzing Fitness Patterns](https://github.com/akshara1610)  
 *Course Project | Machine Learning, Scikit-learn, Pandas*  
@@ -44,9 +44,11 @@ A benchmarking suite designed to evaluate the performance of linear algebra oper
 ---
 
 ### 🛠️ Tech Stack
-**Languages**: Python, Go, Java, Node.js, HTML/CSS, SQL  
-**Frameworks & Tools**: Flask, React, Spring Boot, Power BI, Azure, Jenkins, Kubernetes  
-**Specialties**: Machine Learning, Deep Learning, Data Analytics, Time Series Forecasting
+**Programming Languages & Frameworks:** Python, Node, React, Go, Java, HTML, CSS, Bootstrap, Flask, Numpy, Pandas,
+Scikit-Learn, TensorFlow
+**Cloud & DevOps:** Microsoft Azure, Azure Data Factories, Azure AppInsights, Jenkins, Git, Kubernetes, Github Workflow, GCP
+**Data & Analytics:** Machine Learning, Supervised Learning, Microsoft Power BI, SQL, Data Analytics, Data Visualization, Time
+Series Modeling, PostgreSQL, Deep Learning, Computer Vision
 
 ---
 
