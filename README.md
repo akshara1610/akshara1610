@@ -46,7 +46,9 @@ A benchmarking suite designed to evaluate the performance of linear algebra oper
 ### 🛠️ Tech Stack
 **Programming Languages & Frameworks:** Python, Node, React, Go, Java, HTML, CSS, Bootstrap, Flask, Numpy, Pandas,
 Scikit-Learn, TensorFlow
+
 **Cloud & DevOps:** Microsoft Azure, Azure Data Factories, Azure AppInsights, Jenkins, Git, Kubernetes, Github Workflow, GCP
+
 **Data & Analytics:** Machine Learning, Supervised Learning, Microsoft Power BI, SQL, Data Analytics, Data Visualization, Time
 Series Modeling, PostgreSQL, Deep Learning, Computer Vision
 
